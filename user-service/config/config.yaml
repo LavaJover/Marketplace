@@ -1,0 +1,5 @@
+env: "local"
+storage_path: "./storage"
+grpc:
+  port: 9000
+  timeout: 10h
